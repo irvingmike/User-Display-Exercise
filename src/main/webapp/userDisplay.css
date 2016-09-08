@@ -1,0 +1,15 @@
+body {
+    font-family: Helvetica, "Helvetica Neue", Arial, sans-serif;
+}
+
+div.result {
+    float: left;
+    margin: 1em;
+    background-color: #EEEEEE;
+    width: 20em;
+    padding: 2em;
+}
+
+.bold {
+    font-weight: bold;
+}

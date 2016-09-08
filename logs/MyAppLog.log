@@ -1,0 +1,14 @@
+No search term provided.
+Gimme something to find!
+No search term provided.
+Gimme something to find!
+User search initiated.
+Search using: a
+Users found: 4
+Gimme something to find!
+[2016-09-07 15:22:08,484] Search using: aa
+[2016-09-07 15:22:08,702] SearchUser.getAllUsers()...SQL Exception: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown database 'sample'
+[2016-09-07 15:22:14,545] Search using: a
+[2016-09-07 15:22:14,548] SearchUser.getAllUsers()...SQL Exception: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown database 'sample'
+[2016-09-07 15:22:22,174] Search using: a
+[2016-09-07 15:22:22,176] SearchUser.getAllUsers()...SQL Exception: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown database 'sample'
