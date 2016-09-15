@@ -12,3 +12,6 @@ Gimme something to find!
 [2016-09-07 15:22:14,548] SearchUser.getAllUsers()...SQL Exception: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown database 'sample'
 [2016-09-07 15:22:22,174] Search using: a
 [2016-09-07 15:22:22,176] SearchUser.getAllUsers()...SQL Exception: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown database 'sample'
+[2016-09-14 19:55:49,312] Gimme something to find!
+[2016-09-14 19:55:49,526] SearchUser.getAllUsers()...SQL Exception: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown database 'sample'
+[2016-09-14 19:57:10,702] Gimme something to find!
